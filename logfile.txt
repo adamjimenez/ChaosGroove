@@ -1,0 +1,39 @@
+Chaos Groove
+----------------------------------------------------
+Version : 0.9, Started : 10.04.07
+Author : Richard Phipps
+----------------------------------------------------
+
+Desktop resolution : 1024 x 600
+Opening Screen...
+Loading in display data from display.ini file
+
+Display information found :
+Width : 1280, Height : 1024, DirectX : 0, Windowed : 0
+
+* USE_DESKTOP_RESOLUTION = YES : Using desktop resolution of 1024 x 600, instead of user settings..
+Attempting to open a screen with these settings..  Successful.
+
+Started timer.
+Random Seed: 1242568252
+Loading Sprites : Done.
+Done.
+Loading gfx fonts.. Done
+Setting up board..
+
+Reading in all available Spell ID's..
+Found 84 spells.
+
+Setting up sounds..
+Loaded 113 sounds into memory..
+Setting up network code..
+Setup completed!
+Loading Music: DoTheRiffs
+
+Starting Ingame Loop
+Setting up board..
+Loading Music: KefmaniaTheme
+
+Exiting Game..
+Destroying 50 gfx..
+Freeing config files..
